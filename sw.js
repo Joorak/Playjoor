@@ -1,4 +1,4 @@
-const VERSION = "v11";
+const VERSION = "v12";
 const CACHE_NAME = `Playjoor-${VERSION}`;
 
 // Those are all the resources our app needs to work.
